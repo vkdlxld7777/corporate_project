@@ -1,6 +1,6 @@
 
 # ChatBot12
-Chatbot for senior
+기업협업으로 코드자료 공유 불가
 
 
 # 1. 프로젝트 개요
